@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.6)  6 FEB 2026 03:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.6)  6 FEB 2026 03:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -279,19 +279,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `cafe_sim_report.lof'.
 
  [2] [3]
-Overfull \hbox (90.57959pt too wide) in paragraph at lines 95--96
+Overfull \hbox (90.57959pt too wide) in paragraph at lines 99--100
 []\OT1/cmr/m/n/10.95 Maven An-a-lyt-ics (Cof-fee Shop Sales): []\OT1/cmtt/m/n/1
 0.95 https://mavenanalytics.io/data-playground/coffee-shop-sales[] 
  []
 
 
-Overfull \hbox (6.32578pt too wide) in paragraph at lines 96--97
+Overfull \hbox (6.32578pt too wide) in paragraph at lines 100--101
 []\OT1/cmr/m/n/10.95 Hugging Face (Cof-feeSales): []\OT1/cmtt/m/n/10.95 https:/
 /huggingface.co/datasets/tablegpt/CoffeeSales[] 
  []
 
 
-Overfull \hbox (97.81828pt too wide) in paragraph at lines 97--98
+Overfull \hbox (97.81828pt too wide) in paragraph at lines 101--102
 []\OT1/cmr/m/n/10.95 Kaggle (Cof-fee Sales Dataset): []\OT1/cmtt/m/n/10.95 http
 s://www.kaggle.com/datasets/saadaliyaseen/coffee-sales-dataset[] 
  []
@@ -300,7 +300,7 @@ s://www.kaggle.com/datasets/saadaliyaseen/coffee-sales-dataset[]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.135 \end{tabularx}
+l.139 \end{tabularx}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -308,7 +308,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.135 \end{tabularx}
+l.139 \end{tabularx}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -316,7 +316,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.135 \end{tabularx}
+l.139 \end{tabularx}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -324,7 +324,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.135 \end{tabularx}
+l.139 \end{tabularx}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -332,7 +332,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.135 \end{tabularx}
+l.139 \end{tabularx}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -340,18 +340,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.135 \end{tabularx}
+l.139 \end{tabularx}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (4.86667pt too wide) in paragraph at lines 122--147
+Overfull \hbox (4.86667pt too wide) in paragraph at lines 126--151
   $[]$ 
  []
 
 
-Overfull \hbox (65.7013pt too wide) in paragraph at lines 170--179
+Overfull \hbox (65.7013pt too wide) in paragraph at lines 174--183
  [][] 
  []
 
@@ -359,102 +359,102 @@ Overfull \hbox (65.7013pt too wide) in paragraph at lines 170--179
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [5]
-<../output/maven_coffee_shop_sales_waits_abandonment.png, id=30, 867.24pt x 867
+<../output/maven_coffee_shop_sales_waits_abandonment.png, id=32, 867.24pt x 867
 .24pt>
 File: ../output/maven_coffee_shop_sales_waits_abandonment.png Graphic file (typ
 e png)
 <use ../output/maven_coffee_shop_sales_waits_abandonment.png>
 Package pdftex.def Info: ../output/maven_coffee_shop_sales_waits_abandonment.pn
-g  used on input line 188.
+g  used on input line 192.
 (pdftex.def)             Requested size: 432.48051pt x 432.48091pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../output/maven_coffee_shop_sales_prep_utilization.png, id=32, 867.24pt x 289.
+<../output/maven_coffee_shop_sales_prep_utilization.png, id=34, 867.24pt x 289.
 08pt>
 File: ../output/maven_coffee_shop_sales_prep_utilization.png Graphic file (type
  png)
 <use ../output/maven_coffee_shop_sales_prep_utilization.png>
 Package pdftex.def Info: ../output/maven_coffee_shop_sales_prep_utilization.png
-  used on input line 194.
+  used on input line 198.
 (pdftex.def)             Requested size: 432.48051pt x 144.1603pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../output/maven_coffee_shop_sales_pickup_wait.png, id=33, 867.24pt x 289.08pt>
+<../output/maven_coffee_shop_sales_pickup_wait.png, id=35, 867.24pt x 289.08pt>
 
 File: ../output/maven_coffee_shop_sales_pickup_wait.png Graphic file (type png)
 
 <use ../output/maven_coffee_shop_sales_pickup_wait.png>
 Package pdftex.def Info: ../output/maven_coffee_shop_sales_pickup_wait.png  use
-d on input line 200.
+d on input line 204.
 (pdftex.def)             Requested size: 432.48051pt x 144.1603pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../output/huggingface_coffeesales_waits_abandonment.png, id=34, 867.24pt x 867
+<../output/huggingface_coffeesales_waits_abandonment.png, id=36, 867.24pt x 867
 .24pt>
 File: ../output/huggingface_coffeesales_waits_abandonment.png Graphic file (typ
 e png)
 <use ../output/huggingface_coffeesales_waits_abandonment.png>
 Package pdftex.def Info: ../output/huggingface_coffeesales_waits_abandonment.pn
-g  used on input line 207.
+g  used on input line 211.
 (pdftex.def)             Requested size: 432.48051pt x 432.48091pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../output/huggingface_coffeesales_prep_utilization.png, id=35, 867.24pt x 289.
+<../output/huggingface_coffeesales_prep_utilization.png, id=37, 867.24pt x 289.
 08pt>
 File: ../output/huggingface_coffeesales_prep_utilization.png Graphic file (type
  png)
 <use ../output/huggingface_coffeesales_prep_utilization.png>
 Package pdftex.def Info: ../output/huggingface_coffeesales_prep_utilization.png
-  used on input line 213.
+  used on input line 217.
 (pdftex.def)             Requested size: 432.48051pt x 144.1603pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../output/huggingface_coffeesales_pickup_wait.png, id=36, 867.24pt x 289.08pt>
+<../output/huggingface_coffeesales_pickup_wait.png, id=38, 867.24pt x 289.08pt>
 
 File: ../output/huggingface_coffeesales_pickup_wait.png Graphic file (type png)
 
 <use ../output/huggingface_coffeesales_pickup_wait.png>
 Package pdftex.def Info: ../output/huggingface_coffeesales_pickup_wait.png  use
-d on input line 219.
+d on input line 223.
 (pdftex.def)             Requested size: 432.48051pt x 144.1603pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../output/kaggle_coffee_sales_dataset_waits_abandonment.png, id=37, 867.24pt x
+<../output/kaggle_coffee_sales_dataset_waits_abandonment.png, id=39, 867.24pt x
  867.24pt>
 File: ../output/kaggle_coffee_sales_dataset_waits_abandonment.png Graphic file 
 (type png)
 <use ../output/kaggle_coffee_sales_dataset_waits_abandonment.png>
 Package pdftex.def Info: ../output/kaggle_coffee_sales_dataset_waits_abandonmen
-t.png  used on input line 226.
+t.png  used on input line 230.
 (pdftex.def)             Requested size: 432.48051pt x 432.48091pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../output/kaggle_coffee_sales_dataset_prep_utilization.png, id=38, 867.24pt x 
+<../output/kaggle_coffee_sales_dataset_prep_utilization.png, id=40, 867.24pt x 
 289.08pt>
 File: ../output/kaggle_coffee_sales_dataset_prep_utilization.png Graphic file (
 type png)
 <use ../output/kaggle_coffee_sales_dataset_prep_utilization.png>
 Package pdftex.def Info: ../output/kaggle_coffee_sales_dataset_prep_utilization
-.png  used on input line 232.
+.png  used on input line 236.
 (pdftex.def)             Requested size: 432.48051pt x 144.1603pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../output/kaggle_coffee_sales_dataset_pickup_wait.png, id=39, 867.24pt x 289.0
+<../output/kaggle_coffee_sales_dataset_pickup_wait.png, id=41, 867.24pt x 289.0
 8pt>
 File: ../output/kaggle_coffee_sales_dataset_pickup_wait.png Graphic file (type 
 png)
 <use ../output/kaggle_coffee_sales_dataset_pickup_wait.png>
 Package pdftex.def Info: ../output/kaggle_coffee_sales_dataset_pickup_wait.png 
- used on input line 238.
+ used on input line 242.
 (pdftex.def)             Requested size: 432.48051pt x 144.1603pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -477,7 +477,7 @@ L3 programming layer <2024-01-22>
 Here is how much of TeX's memory you used:
  3369 strings out of 476182
  52874 string characters out of 5795596
- 1941975 words of memory out of 5000000
+ 1940975 words of memory out of 5000000
  25341 multiletter control sequences out of 15000+600000
  566789 words of font info for 70 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -492,10 +492,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
 nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmtt10.pfb>
-Output written on cafe_sim_report.pdf (12 pages, 837549 bytes).
+Output written on cafe_sim_report.pdf (12 pages, 838335 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 118 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

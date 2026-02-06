@@ -119,6 +119,10 @@ def build_report_tex():
 
 \\textbf{{Author:}} Gabriel Carvalho Domingos da Conceição
 
+\\textbf{{LinkedIn:}} \\url{{https://www.linkedin.com/in/gabriel-carvalho-conceicao/}}
+
+\\textbf{{Repository:}} \\url{{https://github.com/gcarvalho-DataAI/discrete-event-simulation}}
+
 \\textbf{{Generated:}} {timestamp}
 
 \\hrulefill

@@ -3,6 +3,9 @@
 Estrutura de projeto para simulação de eventos discretos (SimPy) de uma cafeteria
 com filas de pedido, preparo e retirada.
 
+LinkedIn: `https://www.linkedin.com/in/gabriel-carvalho-conceicao/`  
+Repositório: `https://github.com/gcarvalho-DataAI/discrete-event-simulation`
+
 ## Estrutura
 
 - `src/` código da simulação
