@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Abstract}{3}{}%
+\contentsline {section}{\numberline {2}Introduction}{3}{}%
+\contentsline {section}{\numberline {3}Theoretical Background}{3}{}%
+\contentsline {section}{\numberline {4}Model Specification}{3}{}%
+\contentsline {subsection}{\numberline {4.1}System Components}{3}{}%
+\contentsline {subsection}{\numberline {4.2}Event Flow}{3}{}%
+\contentsline {subsection}{\numberline {4.3}Metrics}{4}{}%
+\contentsline {section}{\numberline {5}Simulation Setup}{4}{}%
+\contentsline {section}{\numberline {6}Data and Instance Generation}{4}{}%
+\contentsline {section}{\numberline {7}Environment and Reproducibility}{5}{}%
+\contentsline {section}{\numberline {8}Solver and Simulation Choices}{5}{}%
+\contentsline {section}{\numberline {9}Aggregate Results}{5}{}%
+\contentsline {section}{\numberline {10}Bottleneck Analysis}{5}{}%
+\contentsline {section}{\numberline {11}Plots by Dataset}{6}{}%
+\contentsline {section}{\numberline {12}Top-10 Scenarios (Maven)}{6}{}%
+\contentsline {section}{\numberline {13}Recommendations}{6}{}%
+\contentsline {section}{\numberline {14}References}{12}{}%

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ad-curso-react",
+    "title": "Curso React do Zero ao Pro",
+    "description": "Aprenda React moderno com projetos reais, TypeScript e boas praticas.",
+    "price": "R$ 297",
+    "images": [
+      "/uploads/curso-react-01.png",
+      "/uploads/curso-react-02.png",
+      "/uploads/curso-react-03.png"
+    ],
+    "ctaLabel": "Ver curso",
+    "ctaHref": "#",
+    "active": true,
+    "createdAt": "2026-01-27T00:00:00.000Z",
+    "updatedAt": "2026-01-27T00:00:00.000Z",
+    "fileUrl": null
+  },
+  {
+    "id": "ad-pack-ebooks",
+    "title": "Pack de E-books para Creators",
+    "description": "Modelos, checklists e guias prontos para acelerar a criacao e as vendas.",
+    "price": "R$ 0,01",
+    "images": [
+      "/uploads/ebooks-01.png",
+      "/uploads/ebooks-02.png",
+      "/uploads/ebooks-03.png"
+    ],
+    "ctaLabel": "Baixar agora",
+    "ctaHref": "#",
+    "active": true,
+    "createdAt": "2026-01-27T00:00:00.000Z",
+    "updatedAt": "2026-01-28T20:10:15.226Z",
+    "fileUrl": "/uploads/d68639d1-5ce9-423c-87fd-58412ffbfb0a.pdf"
+  },
+  {
+    "id": "ad-clube-assinatura",
+    "title": "Clube Premium de Templates",
+    "description": "Assine e receba novos templates toda semana para landing pages e funis.",
+    "price": "R$ 49/mes",
+    "images": [
+      "/globe.svg"
+    ],
+    "ctaLabel": "Assinar",
+    "ctaHref": "#",
+    "active": false,
+    "createdAt": "2026-01-27T00:00:00.000Z",
+    "updatedAt": "2026-01-27T00:00:00.000Z",
+    "fileUrl": null
+  },
+  {
+    "id": "5b19913d-7460-4460-a519-87bcaba5c3e0",
+    "createdAt": "2026-01-28T19:59:08.978Z",
+    "updatedAt": "2026-01-28T19:59:08.978Z",
+    "title": "Produto teste",
+    "description": "teste",
+    "price": "R$0,00",
+    "images": [
+      "/uploads/4df0592d-0dca-4efb-90d1-4e1e6c9f53b5.png"
+    ],
+    "fileUrl": "/uploads/6d24f149-24c8-4d93-bdf9-3410734ff597.pdf",
+    "ctaLabel": "Ver produto",
+    "ctaHref": "#",
+    "active": true
+  }
+]

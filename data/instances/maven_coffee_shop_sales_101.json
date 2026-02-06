@@ -1,0 +1,33 @@
+{
+  "name": "maven_coffee_shop_sales_101",
+  "source": "maven_coffee_shop_sales",
+  "peak_hour": 10,
+  "arrival_rates_per_hour": {
+    "fast": 0.0,
+    "medium": 102.45856353591161,
+    "slow": 0.0
+  },
+  "order_time_mean": {
+    "fast": 0.8,
+    "medium": 1.2,
+    "slow": 1.8
+  },
+  "prep_time_mean": {
+    "fast": 1.0,
+    "medium": 2.5,
+    "slow": 4.0
+  },
+  "patience_mean": {
+    "fast": 2.5,
+    "medium": 5.0,
+    "slow": 8.0
+  },
+  "staffing": {
+    "order_attendants": 1,
+    "baristas": 2,
+    "pickup_attendants": 2
+  },
+  "prep_queue_alpha": 0.1,
+  "hours": 4.0,
+  "warmup_hours": 0.5
+}

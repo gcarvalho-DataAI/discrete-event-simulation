@@ -1,0 +1,33 @@
+{
+  "name": "kaggle_coffee_sales_dataset_099",
+  "source": "kaggle_coffee_sales_dataset",
+  "peak_hour": 10,
+  "arrival_rates_per_hour": {
+    "fast": 0.36455042781338265,
+    "medium": 0.4963419606380609,
+    "slow": 0.0
+  },
+  "order_time_mean": {
+    "fast": 0.8,
+    "medium": 1.2,
+    "slow": 1.8
+  },
+  "prep_time_mean": {
+    "fast": 1.0,
+    "medium": 2.5,
+    "slow": 4.0
+  },
+  "patience_mean": {
+    "fast": 4.0,
+    "medium": 8.0,
+    "slow": 12.0
+  },
+  "staffing": {
+    "order_attendants": 1,
+    "baristas": 3,
+    "pickup_attendants": 1
+  },
+  "prep_queue_alpha": 0.15,
+  "hours": 4.0,
+  "warmup_hours": 0.5
+}
